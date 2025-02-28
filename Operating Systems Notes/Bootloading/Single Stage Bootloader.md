@@ -1,0 +1,3 @@
+#Design
+
+A single stage [[Bootloader]] consists of a single file that is loaded entirely by the BIOS. This image then performs the steps described above to start the kernel. However, on the x86 you are usually limited to 512 bytes for a first stage (An exception is no-emulation [El-Torito](https://wiki.osdev.org/El-Torito "El-Torito")), which is not much. Also, a lot of this size may be dedicated to bios structures and [FAT](https://wiki.osdev.org/FAT "FAT") headers, which leaves even less space to work with
