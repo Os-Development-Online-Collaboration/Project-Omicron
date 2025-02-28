@@ -11,10 +11,14 @@
             "id": "769bb6687e0a296e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test 1"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "008879d80ba6cf7f",
+  "active": "769bb6687e0a296e",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Test 1.md"
   ]
 }
