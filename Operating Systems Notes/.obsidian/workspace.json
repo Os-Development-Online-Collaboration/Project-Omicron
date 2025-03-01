@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootloading/References.md",
+                "file": "BIOS/BIOS in Long Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "References"
+              "title": "BIOS in Long Mode"
             }
           }
         ]
@@ -169,13 +169,18 @@
     }
   },
   "active": "769bb6687e0a296e",
-  "active": "769bb6687e0a296e",
   "lastOpenFiles": [
-    "Bootloading/Mixed Bootloader.md",
+    "BIOS/BIOS in Protected Mode.md",
+    "BIOS/BIOS in Long Mode.md",
+    "BIOS/BIOS Functions.md",
+    "BIOS/References.md",
+    "Bootloading/Bootloader.md",
+    "BIOS/BIOS.md",
+    "BIOS",
     "Bootloading/References.md",
+    "Bootloading/Mixed Bootloader.md",
     "Bootloading/Two-Stage Bootloader.md",
     "Bootloading/Single Stage Bootloader.md",
-    "Bootloading/Bootloader.md",
     "Bootloading",
     "Welcome.md"
   ]
