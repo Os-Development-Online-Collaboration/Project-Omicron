@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootloading/References.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "References"
+              "title": "Getting Started"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "f8d8fd550221ae5a",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Getting Started"
             }
           },
           {
@@ -169,14 +169,23 @@
     }
   },
   "active": "769bb6687e0a296e",
-  "active": "769bb6687e0a296e",
   "lastOpenFiles": [
+    "Kernel Designs/OS-structure.svg",
+    "Kernel Designs/Hybrid Kernel.md",
+    "Kernel Designs/Exokernel.md",
+    "Kernel Designs/Microkernel.md",
+    "Kernel Designs/Monolithic Kernel.md",
+    "Bootloading/Bootloader.md",
     "Bootloading/Mixed Bootloader.md",
     "Bootloading/References.md",
-    "Bootloading/Two-Stage Bootloader.md",
     "Bootloading/Single Stage Bootloader.md",
-    "Bootloading/Bootloader.md",
-    "Bootloading",
-    "Welcome.md"
+    "Bootloading/Two-Stage Bootloader.md",
+    "Getting Started.md",
+    "Kernel Designs/Structure.png",
+    "Untitled.canvas",
+    "NanoPicokernel.md",
+    "Kernel Designs",
+    "Welcome.md",
+    "Bootloading"
   ]
 }
