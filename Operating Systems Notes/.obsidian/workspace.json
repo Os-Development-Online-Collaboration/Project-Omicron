@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOS/References.md",
+                "file": "Mode Design/Switching from Protected Mode to Real Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "References"
+              "title": "Switching from Protected Mode to Real Mode"
             }
           }
         ]
@@ -170,12 +170,17 @@
   },
   "active": "0fa0fe182032e95d",
   "lastOpenFiles": [
+    "Mode Design/Real Mode.md",
+    "Mode Design/Switching from Protected Mode to Real Mode.md",
+    "Kernel Designs/Monolithic Kernel.md",
+    "Mode Design",
+    "Kernel Designs/Microkernel.md",
+    "Kernel Designs/OS-structure.svg",
+    "Kernel Designs/Hybrid Kernel.md",
+    "Kernel Designs/Exokernel.md",
+    "BIOS/References.md",
     "BIOS/BIOS.md",
     "BIOS/BIOS Functions.md",
-    "Bootloading/Bootloader.md",
-    "Kernel Designs/Monolithic Kernel.md",
-    "Kernel Designs/OS-structure.svg",
-    "Kernel Designs/Microkernel.md",
-    "Kernel Designs/Hybrid Kernel.md"
+    "Bootloading/Bootloader.md"
   ]
 }
