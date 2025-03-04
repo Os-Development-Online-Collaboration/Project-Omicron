@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel Designs/Exokernel.md",
+                "file": "Kernel Designs/Microkernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exokernel"
+              "title": "Microkernel"
             }
           }
         ]
@@ -170,11 +170,11 @@
   },
   "active": "ed96aac1c28e8703",
   "lastOpenFiles": [
-    "Kernel Designs/OS Structure (Comparison).svg",
-    "Kernel Designs/Hybrid Kernel.md",
-    "Kernel Designs/Microkernel.md",
     "Kernel Designs/Monolithic Kernel.md",
+    "Kernel Designs/Microkernel.md",
+    "Kernel Designs/Hybrid Kernel.md",
     "Kernel Designs/Exokernel.md",
+    "Kernel Designs/OS Structure (Comparison).svg",
     "IPC.md",
     "Untitled.md",
     "BIOS/BIOS in Protected Mode.md",

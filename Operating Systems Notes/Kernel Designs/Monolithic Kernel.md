@@ -4,7 +4,7 @@
 
 This means that the entire operating system, including process management, memory handling, device drivers, and file systems, runs in **[[kernel space]]**, making it the opposite of a [[Microkernel]], which moves many of these services to **[[user space]]** to improve stability at the cost of performance.
 
--> More on related kernels: [[Monolithic Kernel]] & [[Hybrid Kernel]]
+-> More on related kernels: [[Microkernel]] & [[Hybrid Kernel]]
 
 ![Monolithic vs Micro](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OS-structure.svg/1920px-OS-structure.svg.png)
 *A comparison between a [[Monolithic Kernel]] and a [[Microkernel]]*

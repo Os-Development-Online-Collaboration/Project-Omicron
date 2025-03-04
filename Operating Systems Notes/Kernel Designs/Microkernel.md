@@ -17,7 +17,7 @@ It improves **stability** and makes the system more **modular**, but can reduce 
 ### Cons
 **Slower**, due to overhead from [[IPC]] and frequent context switches  
 **More complex**, requires well-designed messaging & process management  
-**Driver performance issues**, since drivers run in user space
+**Driver performance issues**, since drivers run in [[user space]]
 
 ### Examples
 - Mach
