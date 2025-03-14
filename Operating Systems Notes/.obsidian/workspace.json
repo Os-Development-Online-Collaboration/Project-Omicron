@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c5973104bd700b",
+        "id": "f2cd30e57392ff8e",
         "type": "tabs",
         "children": [
           {
-            "id": "0fa0fe182032e95d",
+            "id": "ed96aac1c28e8703",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mode Design/Switching from Protected Mode to Real Mode.md",
+                "file": "Kernel Designs/Microkernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switching from Protected Mode to Real Mode"
+              "title": "Microkernel"
             }
           }
         ]
@@ -168,16 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fa0fe182032e95d",
+  "active": "ed96aac1c28e8703",
   "lastOpenFiles": [
-    "Mode Design/Real Mode.md",
-    "Mode Design/Switching from Protected Mode to Real Mode.md",
     "Kernel Designs/Monolithic Kernel.md",
-    "Mode Design",
     "Kernel Designs/Microkernel.md",
-    "Kernel Designs/OS-structure.svg",
     "Kernel Designs/Hybrid Kernel.md",
     "Kernel Designs/Exokernel.md",
+    "Kernel Designs/OS Structure (Comparison).svg",
+    "IPC.md",
+    "Untitled.md",
+    "BIOS/BIOS in Protected Mode.md",
+    "BIOS/BIOS in Long Mode.md",
+    "OS-structure.svg",
+    "Mode Design/Switching from Protected Mode to Real Mode.md",
+    "Getting Started.md",
+    "Mode Design/Real Mode.md",
+    "Protected Mode.md",
+    "2025-03-03.md",
+    "Mode Design",
     "BIOS/References.md",
     "BIOS/BIOS.md",
     "BIOS/BIOS Functions.md",
