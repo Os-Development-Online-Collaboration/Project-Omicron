@@ -2,3 +2,5 @@
 *workspace.json
 Operating Systems Notes\.obsidian\workspace.json
 Operating Systems Notes\.obsidian\graph.json
+build/*
+omicron_os/target/*
