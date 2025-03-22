@@ -29,7 +29,7 @@ fn main() {
 Without std, there's a few things that we need to be aware of:
 - We can't use macros which are part of **std**, such as `println`
 - We need our own `#[panic_handler]` since the **std** library provides its own
-- We need to disable unwinding, so the `eh_personality` language item is not needed
+- We need to disable [Stack unwinding](https://www.bogotobogo.com/cplusplus/stackunwinding.php), so the `eh_personality` language item is not needed
 - Since the freestanding executable does not have access to the rust **runtime system** we need a different entry point than the "main" function -> add `#[no_main]`
 
 ### Runtime System
