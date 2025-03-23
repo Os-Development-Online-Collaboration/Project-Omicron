@@ -70,7 +70,7 @@ build-std = ["core", "compiler_builtins"]
 
 ## VGA text Mode
 
-Old-school way of displaying text on the screen using [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array)
+Simple, old-school way of displaying text on the screen using [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array)
 
  - 25 lines, each contain 80 character cells
  - Special Memory area mapped to the [VGA Hardware](https://wiki.osdev.org/VGA_Hardware)
