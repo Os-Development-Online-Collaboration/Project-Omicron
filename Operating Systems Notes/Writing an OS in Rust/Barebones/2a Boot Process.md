@@ -13,7 +13,6 @@ Firmware standards on **x86**, the *Basic Input Output System* (old) and the *Un
 2. Switch from 16-Bit [[Real Mode]] to 32-Bit [[Protected Mode]] and then to 64-Bit [[Long Mode]]
 
 -> Bootloader prepend tool [bootimage](https://github.com/rust-osdev/bootimage) 
-****
 
 
 
