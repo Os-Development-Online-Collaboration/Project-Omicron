@@ -1,0 +1,3 @@
+#Tip 
+
+Operating systems often have to deal with misbehaving processes, those that either through design (maliciousness) or accident (bugs) attempt to do something that they shouldn’t. In modern systems, the way the OS tries to handle such malfeasance is to simply terminate the offender. One strike and you’re out! Perhaps brutal, but what else should the OS do when you try to access memory illegally or execute an illegal instruction?
